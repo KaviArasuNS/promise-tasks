@@ -1,0 +1,40 @@
+.fox-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 15px;
+  justify-content: center;
+}
+
+.fox-items {
+  width: 250px;
+  height: 350px;
+  object-fit: cover;
+}
+
+.porgramming-quote {
+  background-color: antiquewhite;
+  color: blue;
+  font-weight: bold;
+  padding-left: 25vh;
+}
+
+.btn {
+  margin: 20px;
+}
+
+.fox-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: rgb(63, 94, 251);
+  background: radial-gradient(
+    circle,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(252, 70, 107, 1) 100%
+  );
+}
+
+.fox-text {
+  margin-left: 20px;
+  color: brown;
+}
