@@ -1,0 +1,34 @@
+.porgramming-quote {
+  background-color: antiquewhite;
+  color: blue;
+  font-weight: bold;
+  padding-left: 25vh;
+}
+
+.btn {
+  margin: 20px;
+}
+
+.table {
+  margin-top: 20px;
+  width: 300px;
+}
+
+.customer-satellites {
+  margin: 40px 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-evenly;
+  background-color: #8bc6ec;
+  background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
+}
+
+.satHeading {
+  margin-top: 20px;
+  margin-left: 30px;
+  font-size: 50px;
+  background: -webkit-linear-gradient(aqua, green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
